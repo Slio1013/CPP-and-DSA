@@ -1,4 +1,4 @@
-# cppDSA
+# CPP-and-DSA
 
 This repo is to save my DSA progress and keep track of what I am doing.
 

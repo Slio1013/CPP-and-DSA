@@ -25,3 +25,6 @@ This repo is to save my DSA progress and keep track of what I am doing.
 - `typedef` 
 	- Used to rename datatypes so that it is easier to write the code
 	- Very use full when it comes to nexted datatypes (Hopefully they call it that)
+- `using`
+	- also can be used as typedef 
+	- syntax is - using new_name = variabel;

@@ -28,3 +28,12 @@ This repo is to save my DSA progress and keep track of what I am doing.
 - `using`
 	- also can be used as typedef 
 	- syntax is - using new_name = variabel;
+## Arthmetic Operations 
+- `+` - Basic add
+- `-` - Basic subtraction 
+- `*` - Basic multiplication
+- `/` - Basic division but decimal is truncated if performed on integers
+- `%` - Returns remainder when used inplace of / 
+- `+=` - equivalent to a = a + soemthing what ever is on the rhs , other operators also have this 
+- `i++` - is i += 1 but if in a statment i value is used then incremented
+- `++i` - opposite of the previous step, is incremented then used 
